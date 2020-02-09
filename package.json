@@ -1,0 +1,14 @@
+{
+  "name": "ng9",
+  "version": "0.0.1",
+  "description": "A test project with ng9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanu Roy",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^9.0.1"
+  }
+}
